@@ -1,0 +1,1 @@
+To run the KNN classifier test cases upload the notebook to colab so it can manage dependencies by itself, as some of test cases are deprecated and some content of the tools.py file is also deprecated.
